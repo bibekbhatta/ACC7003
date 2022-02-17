@@ -4,7 +4,7 @@ This repository contains a simple Linear Optimization example from module ACC700
 
 If you load these files in mybinder.org, the following packages will already be included in the environment:
 
-pandas/numpy matplotlib bs4 emoji
+pandas/numpy and pulp
 
 Hence, it may take a few minutes for the page to load while the above packages are updated.
 
